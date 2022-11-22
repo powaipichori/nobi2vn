@@ -253,7 +253,7 @@
     }
     
     
-    function Scene_supponSSshop() {
+    Scene_supponSSshop = function() {
         this.initialize.apply(this, arguments);
     };
     
